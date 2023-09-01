@@ -1,8 +1,9 @@
 body {
-background-color: lightblue;
+background-color: rgb(124, 200, 225);
 }
 
 h1 {
 color: navy;
 margin-left: 20px;
+font-family :Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
